@@ -41,7 +41,7 @@ public class task2 {
         System.out.println("Первый элемент: " + ll.getFirst()); // Полусаем первый элемент, без удаления
     }
 
-    public static void Menu() {
+    public static void mainProgramm() {
 
         boolean flag = true;
         while (flag) {

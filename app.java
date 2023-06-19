@@ -9,6 +9,6 @@ public class app {
         task1.reverseLinkList();
 
         System.out.println("Task2");
-        task2.Menu();
+        task2.mainProgramm();
     }
 }
